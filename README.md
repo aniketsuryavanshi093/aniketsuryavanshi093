@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Aniket Suryavanshi</h1>
 <h3  align="center">💻 Web developer | 📖 Tech enthusiast </h3>  
 <br>
-<img width="200" height="200" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/74701038?v=4">
+<img width="200" height="200" style="border-radius:50%; position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);">
 <ul>
   <li>💼 I'm currently working as a <b>Software Engineer at<a href="https://www.solulab.com/"> Solulabs</b></a></li>
   <li>👀 I enjoy deploying web applications and interacting with coding communities</li>
