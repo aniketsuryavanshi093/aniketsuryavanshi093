@@ -21,7 +21,7 @@
     <li>Cloud - AWS</li>
     <li>Platform and tools - Git, Github, JIRA, Spring</li>
   </ul> </div>
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
+<div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsuryavanshi093&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
 <br>
 <h3>🎨 What am I learning currently?</h3>
 <p>At the moment I'm mastering my  <b> coding skills</b>. Learning new algos and giving coding contests to improve my problem solving skills🚀</p>
