@@ -16,11 +16,10 @@
 <div>
    <ul>
     <li>Web - HTML5, CSS3, Bootstrap, Javascipt, Reactjs, AJAX, PHP, Node + Express</li>
-    <li>Core Languages GO, Java , Jabvascript</li>
+    <li>Core Languages GO , Java , Javascript</li>
     <li>Database - MySQL, Prisma , mongo</li>
     <li>Cloud - AWS</li>
-    <li>OS - Linux</li>
-    <li>Platform and tools - Git, Github, Docker</li>
+    <li>Platform and tools - Git, Github, JIRA, Spring</li>
   </ul> </div>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
 <br>
