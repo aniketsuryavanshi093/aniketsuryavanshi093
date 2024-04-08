@@ -16,7 +16,7 @@
 <div>
    <ul>
     <li>Web - HTML5, CSS3, Bootstrap, Javascipt, Reactjs, AJAX, PHP, Node + Express</li>
-    <li>Core Languages Java , Jabvascript</li>
+    <li>Core Languages GO, Java , Jabvascript</li>
     <li>Database - MySQL, Prisma , mongo</li>
     <li>Cloud - AWS</li>
     <li>OS - Linux</li>
